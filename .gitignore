@@ -1,0 +1,8 @@
+node_modules
+build
+npm-debug.log
+.nyc
+.DS_Store
+DB
+.env
+generated_PDF
